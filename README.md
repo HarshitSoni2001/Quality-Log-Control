@@ -3,5 +3,10 @@ Steps to Run the Quality Log control:-
 2. now make the query interface,i am using flask for making it in which all the logs entries are added and render with the search template with filter logs and adding a json file also in which all logs are stored. save file as app.py
 3. now make a Html template for running this interface and link the app.py with it in the same folder.
 4. make another html page for search results to redirecting the search results to be appeared and save it as search_results.html
-
 now directly run the app.py after save all files in the same folder or open http://127.0.0.1:5000/
+
+![image](https://github.com/HarshitSoni2001/Quality-Log-Control/assets/91006379/663c79e1-82bb-4dc6-abca-f5073e8939c1)
+![image](https://github.com/HarshitSoni2001/Quality-Log-Control/assets/91006379/afbc1f03-c655-4262-8612-6f186fad6717)
+refer to these working images 
+
+
